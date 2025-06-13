@@ -36,3 +36,5 @@ vmess://eyJhZGQiOiJtc25sMS5lYXN5dG9tZS5uZXQiLCJhaWQiOiIwIiwiaG9zdCI6ImZhc3QuY29t
 vless://175a815e-41ac-41ee-b25d-2bfcd9953f79@79.127.42.172:8081?security=tls&sni=msifr.easytome.net&alpn=h2,http/1.1&fp=chrome&type=tcp&path=/&headerType=http&host=telewebion.com&encryption=none#vless-turbo-6dezcpbm
 vless://15d4bae4-36ef-4b21-84cf-ae0f0f328409@79.127.42.168:8081?security=&type=tcp&path=/&headerType=http&host=fast.com&encryption=none#VLESS2-7xigp7ka
 vless://57a929fe-f2ba-41e9-b925-6b6cd9f52ad2@msitr.easytome.net:8081?security=&type=tcp&path=/&headerType=http&host=fast.com&encryption=none#turbo-hvxp1saj
+
+vless://YXV0bzoyMGNhOWU4MC0xNjE4LTRiYjctODIyNS1kMzNjZjA0N2RjMWFAMTUxLjEwMS42NC4xNTU6ODA?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6&remarks=movaghat&obfsParam=Lightning.ir&obfs=websocket

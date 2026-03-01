@@ -1,4 +1,4 @@
-vless://18d98d52-c878-41c1-9e2d-13ed4732edbf@usa107.luckerusa.org:8443?encryption=none&security=tls&sni=usa107.luckerusa.org&fp=chrome&insecure=0&allowInsecure=0&type=grpc&authority=&serviceName=grpc-vless&mode=gun#xray-1762543%F0%9F%87%BA%F0%9F%87%B8%20gRPC%20%C2%A7%202
+upvless://18d98d52-c878-41c1-9e2d-13ed4732edbf@usa107.luckerusa.org:8443?encryption=none&security=tls&sni=usa107.luckerusa.org&fp=chrome&insecure=0&allowInsecure=0&type=grpc&authority=&serviceName=grpc-vless&mode=gun#xray-1762543%F0%9F%87%BA%F0%9F%87%B8%20gRPC%20%C2%A7%202
 vless://ac4131a7-a86a-4323-b082-643802aea3d6@eng1.worldunlocked.org:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=eng1.worldunlocked.org&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#xray-1774426%F0%9F%87%AC%F0%9F%87%A7%20Vision%20%C2%A7%2011
 vless://ac4131a7-a86a-4323-b082-643802aea3d6@eng1.worldunlocked.org:8443?encryption=none&security=tls&sni=eng1.worldunlocked.org&fp=chrome&insecure=0&allowInsecure=0&type=grpc&authority=&serviceName=grpc-vless&mode=gun#xray-1774426%F0%9F%87%AC%F0%9F%87%A7%20gRPC%20%C2%A7%2010
 vless://e2923bc6-8204-4768-98ea-379d48ea8a7a@heu83ujieiwoeu83j2ewjehuwehu8.dentiscan.ca:443?encryption=none&security=tls&sni=heu83ujieiwoeu83j2ewjehuwehu8.dentiscan.ca&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=heu83ujieiwoeu83j2ewjehuwehu8.dentiscan.ca&path=%2FN6t2WxLYKP0ZQqlHjt10sp#GDentiCD%20tls%20WS%20CDN%20vless%20%C2%A7%209
@@ -80,3 +80,5 @@ ssr://bnN1czQuaXJ1bmRucy5uZXQ6NTAwMDphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjA6aHR0cF9zaW
 ssr://c3NjYS5pcnVuZG5zLm5ldDo0NDM6YXV0aF9hZXMxMjhfbWQ1OmFlcy0xMjgtY2ZiOmh0dHBfcG9zdDpKQ1JVZFhKaU1GWlFUaVFrLz9yZW1hcmtzPVZIVnlZbThnYzNOallRJnByb3RvcGFyYW09Jm9iZnNwYXJhbT0
 ssr://bnN1cy5pcnVuZG5zLm5ldDo1MDAwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMDpodHRwX3NpbXBsZTpKQ1JVZFhKaU1Dc3JWbEJPSkNRLz9yZW1hcmtzPVZIVnlZbThnYm5OMWN3JnByb3RvcGFyYW09Jm9iZnNwYXJhbT0
 ssr://bnNkZTQuaXJ1bmRucy5uZXQ6NTAwMDphdXRoX2FlczEyOF9tZDU6c2Fsc2EyMDpodHRwX3Bvc3Q6SzJGelpEWmhOWE0xWkdZci8_cmVtYXJrcz1WSFZ5WW04Z2JuTmtaVFEmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
+
+vless://3f2b6daf-dd97-4eda-afcd-1773a43c7f10@s1.fastsnap.info:29397?type=tcp&encryption=none&security=none#Vless%20-%202-zigmavahid

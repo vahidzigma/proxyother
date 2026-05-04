@@ -1,1 +1,1 @@
-vless://b2c3d4e5-f6a7-8901-bcde-f12345678901@37.98.113.171:443?type=tcp&security=none&mux=1#User-2
+vless://b2c3d4e5-f6a7-8901-bcde-f12345678901@37.148.48.3:8443?type=ws&security=none&path=/myway#shadi

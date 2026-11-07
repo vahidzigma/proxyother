@@ -1,4 +1,13 @@
-sub://aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3ZhaGlkemlnbWEvcHJveHlvdGhlci9yZWZzL2hlYWRzL21haW4vdGVzdA#Bagheri
+v2ray
+vless://0f15583c-f085-451a-8ae5-1338a5a73def@iran.ir.cdnturbo.net:2082?security=none&fp=&type=ws&path=/?ed%3D2052&host=sv-us.irundns.net&packetEncoding=xudp&encryption=none#Server%2006
+vless://de905c09-bfe7-4105-8aa3-c0ef8541f1f8@iran.ir.cdnturbo.net:2082?security=none&fp=&type=ws&path=/?ed%3D2052&host=sv-po.irundns.net&packetEncoding=xudp&encryption=none#Server%2005
+vless://892357a9-a438-4fcb-94d1-876b61573219@iran.ir.cdnturbo.net:2082?security=none&fp=&type=ws&path=/?ed%3D2052&host=master.irundns.net&packetEncoding=xudp&encryption=none#Server%2004
+vless://109b0121-7a15-4d53-92ad-20345e0fd626@188.114.98.0:2082?security=none&fp=&type=ws&path=/?ed%3D2052&host=sv-uk.irundns.net&packetEncoding=xudp&encryption=none#Server%2003
+vmess://13ac8bab-3610-41da-bf55-6236910f447b@mspo.easytome.net:80?global_padding=true&authenticated_length=false&encryption=auto&security=none&fp=&type=tcp&path=/&headerType=http&host=fast.com#Server%2002
+vmess://13ac8bab-3610-41da-bf55-6236910f447b@msnl1.easytome.net:80?global_padding=true&authenticated_length=false&encryption=auto&security=none&fp=&type=tcp&path=/&headerType=http&host=fast.com#Server%2001
+
+
+ssr
 ssr://bnNkZTQuaXJ1bmRucy5uZXQ6NTAwMDphdXRoX2FlczEyOF9tZDU6c2Fsc2EyMDpodHRwX3Bvc3Q6SzJGelpEWmhOWE0xWkdZci8_cmVtYXJrcz1VMlZ5ZG1WeUlEQTMmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
 ssr://bnN1cy5pcnVuZG5zLm5ldDo1MDAwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMDpodHRwX3NpbXBsZTpKQ1JVZFhKaU1Dc3JWbEJPSkNRLz9yZW1hcmtzPVUyVnlkbVZ5SURBNCZwcm90b3BhcmFtPSZvYmZzcGFyYW09
 ssr://bnN1czQuaXJ1bmRucy5uZXQ6NTAwMDphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjA6aHR0cF9zaW1wbGU6SzJGelpEWmhOWE0xWkdZci8_cmVtYXJrcz1VMlZ5ZG1WeUlEQTUmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
